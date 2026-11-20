@@ -1,9 +1,10 @@
-# IMAGE.md — Layout Specification
+# Front-Page Visual Specification (IMAGE.md)
 
-- **Canvas**: 1024x1024 pixels, newspaper front page.
-- **Masthead**: "FRIDAY 20 NOVEMBER 2026", sub-line "THE WORLD ON ONE PAGE".
-- **Palette**: Off-white paper background, deep black text, red kickers, muted blues/greys.
-- **Grid / Panels**: 9 main story panels in a grid (lead panel bigger), one per story 1-9 above, each with kicker, headline (exactly as in NEWS.md) and an illustration described in one line.
-- **Bottom Section**: Simple world map strip with red pins marking key locations, followed by the "ALSO ON 20 NOVEMBER" list (items 11-14).
-- **Typography Rule**: No other text anywhere outside this specification; every label spelled exactly as written; numbers only where shown.
+- **Layout Dimensions**: A square 1024x1024 pixel newspaper front page canvas.
+- **Masthead Header**: Features the primary title "FRIDAY 20 NOVEMBER 2026" accompanied by the sub-heading "THE WORLD ON ONE PAGE".
+- **Color Palette**: Styled with an off-white textured paper background, deep dark black typography for body and headlines, striking red accent kickers, and complementary muted blue and grey tones.
+- **Story Grid Structure**: Arranged into 9 distinct grid panels representing the lead news items, with the primary lead story occupying a prominent larger section. Each panel incorporates an eye-catching red kicker, exact headlines matching NEWS.md, and a concise one-line illustration concept.
+- **Lower Section Layout**: Features a streamlined world map strip highlighted with red destination pins, followed directly by the compact ALSO ON 20 NOVEMBER reference list (items 11 through 14).
+- **Design Constraints**: Strictly contains no external or unlisted text, maintains exact label spellings, and restricts numerical figures exclusively to verified data points.
+
 
